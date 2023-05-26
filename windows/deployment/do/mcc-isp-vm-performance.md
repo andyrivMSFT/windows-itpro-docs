@@ -39,7 +39,7 @@ There are many hardware configurations that suit Microsoft Connected Cache. As a
 - 2 x Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40 GHz, total 32 core
 - 48 GB, Micron Technology 18ASF1G72PDZ-2G1A1, Speed: 2133 MT/s
 - 4 - Transcend SSD230s 1 TB SATA Drives
-- Intel Corporation Ethernet 10G 2P X520 Adapter (Link Aggregated)
+- Intel Corporation Ethernet 40G Intel XL710 
 
 ## Enhancing virtual machine performance
 
